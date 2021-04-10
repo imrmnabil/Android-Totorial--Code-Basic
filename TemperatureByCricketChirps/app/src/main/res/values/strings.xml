@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Temperature By Cricket Chirps</string>
+    <string name="todo">TODO</string>
+    <string name="tv1">Do you know you can measure current temperature using cricket chrips?? Just count the number of chirps one makes every 25 seconds and place it in the box below.</string>
+    <string name="resultText">TextView</string>
+    <string name="submit">Submit</string>
+</resources>
